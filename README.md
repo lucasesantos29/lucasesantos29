@@ -29,22 +29,30 @@ Busco uma oportunidade de estágio para aplicar e ampliar meus conhecimentos na 
 ### LudCommerce
 Projeto acadêmico desenvolvido na FATEC Mauá para a disciplina de Sistemas Operacionais.
 
-- Arquitetura de um sistema de e-commerce
-- Documentação técnica
-- Diagramas de arquitetura
-- Git e GitHub
-- Linux e terminal
-- Observabilidade e monitoramento
+## Minha contribuição
+
+Atuação no desenvolvimento técnico e na documentação do projeto, com foco em Sistemas Operacionais e infraestrutura da aplicação.
+
+- Documentação de processos, runtime e controles operacionais do sistema.
+- Desenvolvimento de atividades práticas relacionadas a processos, observabilidade e monitoramento.
+- Análise de memória e desempenho em ambiente Linux.
+- Desenvolvimento e organização das evidências das Sprints 2, 3 e 4.
+- Criação e atualização de diagramas de arquitetura utilizando Mermaid.
+- Organização do backlog e documentação técnica das atividades.
+- Utilização de Git e GitHub para versionamento, branches, commits e colaboração.
+- Utilização do terminal Linux para execução de comandos, testes e análise do ambiente.
 
 🔗 [Repositório do projeto](https://github.com/LudFamily/fatec-iso001-2026-2-squad-LudFamily)
 
-### Projeto de Desenvolvimento Web
+### Projeto de Desenvolvimento Web - BERTO SOLUÇÕES
 
 Projeto acadêmico de desenvolvimento de um website para uma empresa externa.
 
 - HTML5
 - CSS3
 - JavaScript
+
+🔗 [Link do site](https://cesarmegas.github.io/curricularizacao-berto/)
 
 ### Jogo de Palavras
 
